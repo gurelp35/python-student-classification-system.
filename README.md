@@ -55,5 +55,5 @@ This project demonstrates:
 ## Author
 
 Pakize Gurel  
-BA (Hons) Digital Media  
+BSc (Hons) Digital Media  
 University of Roehampton
